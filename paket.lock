@@ -1,5 +1,9 @@
 NUGET
   remote: https://www.nuget.org/api/v2
+    Chessie (0.6)
+      FSharp.Core  - restriction: < netstandard1.6
+      FSharp.Core (>= 4.0.1.7-alpha) - restriction: >= netstandard1.6
+      NETStandard.Library (>= 1.6) - restriction: >= netstandard1.6
     FAKE (4.62.1)
     FSharp.Core (4.2.1)
       System.Collections (>= 4.0.11) - restriction: >= netstandard1.6
