@@ -5,3 +5,7 @@ nuget FSharp.Core
 nuget FsUnit
 nuget NUnit
 nuget NUnit.Console
+nuget NEventStore
+nuget Suave
+nuget FSharp.Data
+nuget Newtonsoft.Json
